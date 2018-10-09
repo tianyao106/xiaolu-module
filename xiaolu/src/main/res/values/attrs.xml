@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StateButton">
+        <attr name="corner_radius" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_stroke" format="dimension" />
+        <attr name="unable_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="IconButton">
+        <attr name="iconPadding" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CornerTextView">
+        <attr name="tv_corner_radius" format="dimension" />
+        <attr name="tv_border_color" format="color" />
+        <attr name="tv_border_stroke" format="dimension" />
+    </declare-styleable>
+
+</resources>
